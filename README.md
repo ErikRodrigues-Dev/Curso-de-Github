@@ -78,3 +78,6 @@ git reset --hard: apaga tudo (⚠️ cuidado!)
 
 ✅ 15. git revert <commit>
 Cria um novo commit que desfaz as mudanças de um commit específico, sem apagar o histórico.
+
+
+[PX8XBU1Y.pdf](https://github.com/user-attachments/files/20656088/PX8XBU1Y.pdf)
